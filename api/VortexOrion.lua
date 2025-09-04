@@ -16,7 +16,7 @@ local OrionLib = {
 			Second = Color3.fromRGB(32, 32, 32),
 			Stroke = Color3.fromRGB(60, 60, 60),
 			Divider = Color3.fromRGB(60, 60, 60),
-			Text = Color3.fromRGB(240, 240, 240),
+			Text = Color3.fromRGB(255, 255, 255),
 			TextDark = Color3.fromRGB(150, 150, 150)
 		}
 	},
@@ -732,7 +732,7 @@ function OrionLib:MakeWindow(WindowConfig)
 				AnchorPoint = Vector2.new(0, 0.5),
 				Size = UDim2.new(0, 18, 0, 18),
 				Position = UDim2.new(0, 10, 0.5, 0),
-				ImageTransparency = 0.0,
+				ImageTransparency = 0.4,
 				Name = "Ico"
 			}), "Text"),
 			AddThemeObject(SetProps(MakeElement("Label", TabConfig.Name, 14), {
@@ -778,7 +778,7 @@ function OrionLib:MakeWindow(WindowConfig)
 				if Tab:IsA("TextButton") then
 					Tab.Title.Font = Enum.Font.GothamSemibold
 					Tab.Title.TextColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Text
-					Tab.Ico.ImageColor3 = OrionLib.Themes[OrionLib.SelectedTheme].TextDark
+					Tab.Ico.ImageColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Text
 					TweenService:Create(Tab.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0.4}):Play()
 					TweenService:Create(Tab.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0.4}):Play()
 				end
@@ -788,12 +788,12 @@ function OrionLib:MakeWindow(WindowConfig)
 					ItemContainer.Visible = false
 				end    
 			end  
+			TabFrame.Title.TextColor3 = Color3.fromRGB(21, 208, 0)
+			TabFrame.Ico.ImageColor3 = Color3.fromRGB(21, 208, 0)
 			TweenService:Create(TabFrame.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0}):Play()
 			TweenService:Create(TabFrame.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
 			TabFrame.Title.Font = Enum.Font.GothamBlack
-			Container.Visible = true   
-			TabFrame.Title.TextColor3 = Color3.fromRGB(21, 208, 0)
-			TabFrame.Ico.ImageColor3 = Color3.fromRGB(21, 208, 0)
+			Container.Visible = true 
 		end)
 
 		local function GetElements(ItemParent)
