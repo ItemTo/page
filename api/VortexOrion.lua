@@ -579,7 +579,8 @@ function OrionLib:MakeWindow(WindowConfig)
 			AddThemeObject(SetProps(MakeElement("Label", "Future of Free", 12), {
 				Size = UDim2.new(1, -60, 0, 12),
 				Position = UDim2.new(0, 50, 1, -25),
-				Visible = not WindowConfig.HidePremium
+				Visible = not WindowConfig.HidePremium,
+				TextColor3 = Color3.fromRGB(255, 248, 149)
 			}), "TextDark")
 		}),
 	}), "Second")
@@ -769,8 +770,8 @@ function OrionLib:MakeWindow(WindowConfig)
 			TabFrame.Title.TextTransparency = 0
 			TabFrame.Title.Font = Enum.Font.GothamBlack
 			Container.Visible = true
-			TabFrame.Title.TextColor3 = Color3.fromRGB(21, 208, 0)
-			TabFrame.Ico.ImageColor3 = Color3.fromRGB(21, 208, 0)
+			TabFrame.Title.TextColor3 = Color3.fromRGB(214, 157, 255)
+			TabFrame.Ico.ImageColor3 = Color3.fromRGB(214, 157, 255)
 		end    
 
 		AddConnection(TabFrame.MouseButton1Click, function()
@@ -788,8 +789,8 @@ function OrionLib:MakeWindow(WindowConfig)
 					ItemContainer.Visible = false
 				end    
 			end  
-			TabFrame.Title.TextColor3 = Color3.fromRGB(21, 208, 0)
-			TabFrame.Ico.ImageColor3 = Color3.fromRGB(21, 208, 0)
+			TabFrame.Title.TextColor3 = Color3.fromRGB(214, 157, 255)
+			TabFrame.Ico.ImageColor3 = Color3.fromRGB(214, 157, 255)
 			TweenService:Create(TabFrame.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0}):Play()
 			TweenService:Create(TabFrame.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
 			TabFrame.Title.Font = Enum.Font.GothamBlack
