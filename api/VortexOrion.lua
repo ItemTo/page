@@ -732,7 +732,7 @@ function OrionLib:MakeWindow(WindowConfig)
 				AnchorPoint = Vector2.new(0, 0.5),
 				Size = UDim2.new(0, 18, 0, 18),
 				Position = UDim2.new(0, 10, 0.5, 0),
-				ImageTransparency = 0.4,
+				ImageTransparency = 0.0,
 				Name = "Ico"
 			}), "Text"),
 			AddThemeObject(SetProps(MakeElement("Label", TabConfig.Name, 14), {
