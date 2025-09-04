@@ -28,7 +28,7 @@ local OrionLib = {
 }
 
 --Feather Icons https://github.com/evoincorp/lucideblox/tree/master/src/modules/util - Created by 7kayoh
-local Icons = {}
+--[[local Icons = {}
 
 local Success, Response = pcall(function()
 	Icons = HttpService:JSONDecode(game:HttpGetAsync("https://raw.githubusercontent.com/evoincorp/lucideblox/master/src/modules/util/icons.json")).icons
@@ -37,6 +37,11 @@ end)
 if not Success then
 	warn("\nOrion Library - Failed to load Feather Icons. Error code: " .. Response .. "\n")
 end	
+]]
+
+getgenv().gethui = function() 
+	return game.CoreGui 
+end
 
 local function GetIcon(IconName)
 	if Icons[IconName] ~= nil then
@@ -772,6 +777,7 @@ function OrionLib:MakeWindow(WindowConfig)
 			TabFrame.Title.TextTransparency = 0
 			TabFrame.Title.Font = Enum.Font.GothamBlack
 			Container.Visible = true
+			TabFrame.Title.TextColor3 = Color3.fromRGB(0, 255, 17)
 		end    
 
 		AddConnection(TabFrame.MouseButton1Click, function()
@@ -790,7 +796,8 @@ function OrionLib:MakeWindow(WindowConfig)
 			TweenService:Create(TabFrame.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0}):Play()
 			TweenService:Create(TabFrame.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
 			TabFrame.Title.Font = Enum.Font.GothamBlack
-			Container.Visible = true   
+			Container.Visible = true
+			TabFrame.Title.TextColor3 = Color3.fromRGB(0, 255, 17)   
 		end)
 
 		local function GetElements(ItemParent)
@@ -1708,7 +1715,9 @@ function OrionLib:MakeWindow(WindowConfig)
 			})
 		end
 		return ElementFunction   
-	end
+	end  
+
+	-- notify
 
 	return TabFunction
 end   
