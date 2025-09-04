@@ -770,8 +770,8 @@ function OrionLib:MakeWindow(WindowConfig)
 			TabFrame.Title.TextTransparency = 0
 			TabFrame.Title.Font = Enum.Font.GothamBlack
 			Container.Visible = true
-			TabFrame.Title.TextColor3 = Color3.fromRGB(214, 157, 255)
-			TabFrame.Ico.ImageColor3 = Color3.fromRGB(214, 157, 255)
+			TabFrame.Title.TextColor3 = Color3.fromRGB(255, 239, 149)
+			TabFrame.Ico.ImageColor3 = Color3.fromRGB(255, 239, 149)
 		end    
 
 		AddConnection(TabFrame.MouseButton1Click, function()
@@ -789,8 +789,8 @@ function OrionLib:MakeWindow(WindowConfig)
 					ItemContainer.Visible = false
 				end    
 			end  
-			TabFrame.Title.TextColor3 = Color3.fromRGB(214, 157, 255)
-			TabFrame.Ico.ImageColor3 = Color3.fromRGB(214, 157, 255)
+			TabFrame.Title.TextColor3 = Color3.fromRGB(255, 239, 149)
+			TabFrame.Ico.ImageColor3 = Color3.fromRGB(255, 239, 149)
 			TweenService:Create(TabFrame.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0}):Play()
 			TweenService:Create(TabFrame.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
 			TabFrame.Title.Font = Enum.Font.GothamBlack
