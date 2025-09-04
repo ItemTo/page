@@ -795,8 +795,8 @@ function OrionLib:MakeWindow(WindowConfig)
 			TabFrame.Title.Font = Enum.Font.GothamBlack
 			Container.Visible = true   
 
-			TabFrame.Title.TextColor3 = Color3.fromRGB(61, 132, 208)
-			TabFrame.Ico.ImageColor3 = Color3.fromRGB(61, 132, 208)
+			TabFrame.Title.TextColor3 = Color3.fromRGB(214, 157, 255)
+			TabFrame.Ico.ImageColor3 = Color3.fromRGB(214, 157, 255)
 		end)
 
 		local function GetElements(ItemParent)
