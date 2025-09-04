@@ -17,7 +17,8 @@ local OrionLib = {
 			Stroke = Color3.fromRGB(60, 60, 60),
 			Divider = Color3.fromRGB(60, 60, 60),
 			Text = Color3.fromRGB(255, 255, 255),
-			TextDark = Color3.fromRGB(150, 150, 150)
+			TextDark = Color3.fromRGB(150, 150, 150),
+			GoldDark = Color3.fromRGB(255, 239, 149)
 		}
 	},
 	SelectedTheme = "Default",
@@ -580,8 +581,7 @@ function OrionLib:MakeWindow(WindowConfig)
 				Size = UDim2.new(1, -60, 0, 12),
 				Position = UDim2.new(0, 50, 1, -25),
 				Visible = not WindowConfig.HidePremium,
-				TextColor3 = Color3.fromRGB(255, 248, 149)
-			}), "TextDark")
+			}), "GoldDark")
 		}),
 	}), "Second")
 
