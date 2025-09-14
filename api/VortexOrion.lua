@@ -12,13 +12,13 @@ local OrionLib = {
 	Flags = {},
 	Themes = {
 		Default = {
-			Main = Color3.fromRGB(25, 25, 25),
-			Second = Color3.fromRGB(32, 32, 32),
-			Stroke = Color3.fromRGB(60, 60, 60),
+			Main = Color3.fromRGB(20, 20, 22),
+			Second = Color3.fromRGB(30, 30, 32),
+			Stroke = Color3.fromRGB(60, 60, 65),
 			Divider = Color3.fromRGB(60, 60, 60),
 			Text = Color3.fromRGB(255, 255, 255),
 			TextDark = Color3.fromRGB(150, 150, 150),
-			GoldDark = Color3.fromRGB(255, 239, 149)
+			TextGold = Color3.fromRGB(255, 239, 149)
 		}
 	},
 	SelectedTheme = "Default",
@@ -581,7 +581,7 @@ function OrionLib:MakeWindow(WindowConfig)
 				Size = UDim2.new(1, -60, 0, 12),
 				Position = UDim2.new(0, 50, 1, -25),
 				Visible = not WindowConfig.HidePremium,
-			}), "GoldDark")
+			}), "TextGold")
 		}),
 	}), "Second")
 
