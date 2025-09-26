@@ -1,8 +1,18 @@
 {
-    "whitelisted": [
-        {
-            "hwid": "37B144C0-08A6-4D7E-A9F8-E124E1286CAC",
-            "code": "k9#x$7m@-2q!5%2p8&z12-w4*s6+-r1_t(0)c"
-        }
-    ]
+  "whitelisted": [
+    {
+      "hwid": "37B144C0-08A6-4D7E-A9F8-E124E1286CAC",
+      "code": "k9#x$7m@-2q!5%2p8&z12-w4*s6+-r1_t(0)c"
+    }
+  ],
+  "whitelisted_users": [
+    {
+      "client_id": "sdcsfsdfs",
+      "username": "dfsdfsdfsdfs",
+      "discord_id": "1280529967402319908",
+      "discord_name": "fakepasha",
+      "timestamp": "2025-09-26T17:34:32.539946",
+      "status": "approved"
+    }
+  ]
 }
