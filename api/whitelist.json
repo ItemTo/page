@@ -25,14 +25,6 @@
       "status": "active"
     },
     {
-      "client_id": "F2A07665-7028-4C5A-98C2-B3D83C0F28AB",
-      "username": "Tim890325",
-      "discord_id": "1400799140870488157",
-      "discord_name": ".tim33.",
-      "timestamp": "2025-09-30T12:23:32.897059",
-      "status": "active"
-    },
-    {
       "client_id": "FD1362CF-5512-4CD2-A31C-3D8FAFEAE135",
       "username": "derliebejulian",
       "discord_id": "1401340690457432136",
@@ -70,6 +62,14 @@
       "discord_id": "823865940008632321",
       "discord_name": "pokekingotp",
       "timestamp": "2025-10-01T12:21:29.982842",
+      "status": "active"
+    },
+    {
+      "client_id": "F2A07665-7028-4C5A-98C2-B3D83C0F28AB",
+      "username": "Tim890325",
+      "discord_id": "1400799140870488157",
+      "discord_name": ".tim33.",
+      "timestamp": "2025-10-01T12:24:03.052378",
       "status": "active"
     }
   ]
