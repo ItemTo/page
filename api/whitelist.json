@@ -33,14 +33,6 @@
       "status": "active"
     },
     {
-      "client_id": "55421CA1-E863-4CAB-838A-1EF139235EBE",
-      "username": "dogbellino2004",
-      "discord_id": "459784671962726412",
-      "discord_name": "ggtleomod2",
-      "timestamp": "2025-09-30T20:36:05.369111",
-      "status": "active"
-    },
-    {
       "client_id": "0FEF7A43-CA1B-49E5-A730-AAC8E318ABE7",
       "username": "CarryTheTeam200",
       "discord_id": "823865940008632321",
@@ -78,6 +70,14 @@
       "discord_id": "1391168841886994439",
       "discord_name": "nrw_777",
       "timestamp": "2025-10-02T16:31:18.647246",
+      "status": "active"
+    },
+    {
+      "client_id": "E1D3F9C2-2AB0-4AA8-AAD0-C7F8B5C2296F",
+      "username": "dogbellino2004",
+      "discord_id": "459784671962726412",
+      "discord_name": "ggtleomod2",
+      "timestamp": "2025-10-03T13:07:42.707040",
       "status": "active"
     }
   ]
