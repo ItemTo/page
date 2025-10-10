@@ -17,14 +17,6 @@
       "status": "active"
     },
     {
-      "client_id": "D9AAB3BE-5D88-41D3-AB6A-388EDE3A2506",
-      "username": "PashaPashaMacher",
-      "discord_id": "1280529967402319908",
-      "discord_name": "fakepasha",
-      "timestamp": "2025-10-01T13:21:59.737051",
-      "status": "active"
-    },
-    {
       "client_id": "d3ec2998-c43e-43de-a881-754a2e3bc041",
       "username": "Xx_ChasePhoenixMagic",
       "discord_id": "1355663431348260996",
@@ -134,6 +126,14 @@
       "discord_id": "948969107754217482",
       "discord_name": "breezy049",
       "timestamp": "2025-10-09T23:27:40.108284",
+      "status": "active"
+    },
+    {
+      "client_id": "D9AAB3BE-5D88-41D3-AB6A-388EDE3A2506",
+      "username": "VortexCheater32234",
+      "discord_id": "1280529967402319908",
+      "discord_name": "fakepasha",
+      "timestamp": "2025-10-10T08:46:54.274343",
       "status": "active"
     }
   ]
