@@ -377,19 +377,19 @@
       "status": "active"
     },
     {
-      "client_id": "7383892388",
-      "username": "Ldehell_474Z",
-      "discord_id": "1185658144274251788",
-      "discord_name": "philipp_98676",
-      "timestamp": "2025-11-01T13:15:06.288990",
-      "status": "active"
-    },
-    {
       "client_id": "X14Y2Z37-Y77A-4993-9394-B002710Y882X",
       "username": "",
       "discord_id": "1041091681333825556",
       "discord_name": "ibozodev",
       "timestamp": "2025-11-01T13:25:37.933037",
+      "status": "active"
+    },
+    {
+      "client_id": "BA1XB4AZ-4155-44YX-W126-027B0YZXWB62",
+      "username": "Ldehell_474Z",
+      "discord_id": "1185658144274251788",
+      "discord_name": "philipp_98676",
+      "timestamp": "2025-11-01T13:27:15.070555",
       "status": "active"
     }
   ]
