@@ -57,14 +57,6 @@
       "status": "active"
     },
     {
-      "client_id": "BA1XB4AZ-4155-44YX-W126-027B0YZXWB62",
-      "username": "Ldehell_474Z",
-      "discord_id": "1185658144274251788",
-      "discord_name": "philipp_98676",
-      "timestamp": "2025-11-02T02:32:24.633912",
-      "status": "active"
-    },
-    {
       "client_id": "51BZ4B0B-697W-4B83-X627-1XZY7W347859",
       "username": "",
       "discord_id": "1356659741308227797",
@@ -190,6 +182,14 @@
       "discord_id": "459784671962726412",
       "discord_name": "ggtleomod2",
       "timestamp": "2025-11-02T17:09:02.509870",
+      "status": "active"
+    },
+    {
+      "client_id": "BA1XB4AZ-4155-44YX-W126-027B0YZXWB62",
+      "username": "Ldehell_474Z",
+      "discord_id": "1185658144274251788",
+      "discord_name": "philipp_98676",
+      "timestamp": "2025-11-02T18:30:01.804665",
       "status": "active"
     }
   ]
