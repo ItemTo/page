@@ -201,14 +201,6 @@
       "status": "active"
     },
     {
-      "client_id": "Z2A92923-3475-48W8-9688-28X157BZ86A2",
-      "username": "Natdal434543234",
-      "discord_id": "1421798827865673734",
-      "discord_name": "nicht_bekannt123",
-      "timestamp": "2025-11-05T17:06:56.679476",
-      "status": "active"
-    },
-    {
       "client_id": "584a037x-8axz-430w-84ax-01xa031147yx",
       "username": "ktkcwiangejc",
       "discord_id": "901475560612577341",
@@ -310,6 +302,14 @@
       "discord_id": "1429086075435089976",
       "discord_name": "pizzakaufen",
       "timestamp": "2025-11-07T15:36:58.141193",
+      "status": "active"
+    },
+    {
+      "client_id": "Z2A92923-3475-48W8-9688-28X157BZ86A2",
+      "username": "Xanjzp988",
+      "discord_id": "1421798827865673734",
+      "discord_name": "nicht_bekannt123",
+      "timestamp": "2025-11-07T17:10:07.906743",
       "status": "active"
     }
   ]
