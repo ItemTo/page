@@ -97,14 +97,6 @@
       "status": "active"
     },
     {
-      "client_id": "586B0Z47-197Y-42X9-W648-X7Y8A72XYY25",
-      "username": "",
-      "discord_id": "1431374038525018264",
-      "discord_name": "quemo0166",
-      "timestamp": "2025-11-03T12:20:13.171447",
-      "status": "active"
-    },
-    {
       "client_id": "ZBWX2A72-9Z87-461A-90XX-B25BX9Y565B8",
       "username": "",
       "discord_id": "1362091310277984380",
@@ -350,6 +342,14 @@
       "discord_id": "1292795247499149322",
       "discord_name": "mrgaming.de",
       "timestamp": "2025-11-08T21:43:02.701888",
+      "status": "active"
+    },
+    {
+      "client_id": "ZXA3603B-6583-4353-WY9Y-X7692B3712W3",
+      "username": "",
+      "discord_id": "1431374038525018264",
+      "discord_name": "quemo0166",
+      "timestamp": "2025-11-08T22:19:31.437821",
       "status": "active"
     }
   ]
