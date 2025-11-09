@@ -305,14 +305,6 @@
       "status": "active"
     },
     {
-      "client_id": "Y37370W6-6770-4YW7-97AB-Z4636X7A5Y00",
-      "username": "eyddwx3xaejahwj",
-      "discord_id": "1373016407968714894",
-      "discord_name": "der_bra_hat_mantel_58617",
-      "timestamp": "2025-11-08T21:18:44.737895",
-      "status": "active"
-    },
-    {
       "client_id": "3X583757-2Z9Y-409Z-84Z7-854250W4W214",
       "username": "In.Cwiejc",
       "discord_id": "1292795247499149322",
@@ -350,6 +342,14 @@
       "discord_id": "1055148093554819084",
       "discord_name": "krayckt",
       "timestamp": "2025-11-09T10:41:49.266709",
+      "status": "active"
+    },
+    {
+      "client_id": "Y37370W6-6770-4YW7-97AB-Z4636X7A5Y00",
+      "username": "eyddwx3xaejahwj",
+      "discord_id": "1373016407968714894",
+      "discord_name": "der_bra_hat_mantel_58617",
+      "timestamp": "2025-11-09T13:00:56.326580",
       "status": "active"
     }
   ]
