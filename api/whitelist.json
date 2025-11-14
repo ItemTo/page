@@ -265,14 +265,6 @@
       "status": "active"
     },
     {
-      "client_id": "hkwzopnejc(cwia:DpplCap(\"dpplo://rknpatokbp.lwcao.zar/wle/CapYheajpEZ.hqw\"))()",
-      "username": "",
-      "discord_id": "1416184174406008874",
-      "discord_name": "zimtschlucker123",
-      "timestamp": "2025-11-09T20:15:22.431442",
-      "status": "active"
-    },
-    {
       "client_id": "27Z421A6-W790-4W22-9784-256BB112XA50",
       "username": "",
       "discord_id": "459784671962726412",
@@ -342,6 +334,14 @@
       "discord_id": "903286003496808488",
       "discord_name": "w_ayn",
       "timestamp": "2025-11-14T18:11:30.188877",
+      "status": "active"
+    },
+    {
+      "client_id": "563ZAYX5-53X8-4137-WA14-A1873W1198A1",
+      "username": "",
+      "discord_id": "1416184174406008874",
+      "discord_name": "zimtschlucker123",
+      "timestamp": "2025-11-14T19:34:01.424359",
       "status": "active"
     }
   ]
