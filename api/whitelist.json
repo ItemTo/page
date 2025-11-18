@@ -2,7 +2,7 @@
   "whitelisted_users": [
     {
       "client_id": "11",
-      "username": "11",
+      "username": "",
       "discord_id": "123456789012345678",
       "discord_name": "User",
       "timestamp": "2024-01-15T14:30:00.000000",
@@ -10,7 +10,7 @@
     },
     {
       "client_id": "111",
-      "username": "111",
+      "username": "",
       "discord_id": "987654321098765432",
       "discord_name": "User",
       "timestamp": "2024-01-15T15:45:00.000000",
@@ -18,7 +18,7 @@
     },
     {
       "client_id": "4X2W29AB-79YX-4A38-W40Y-YX3X84ZYB583",
-      "username": "Olwng_D3nk72",
+      "username": "",
       "discord_id": "1259848174860894248",
       "discord_name": "zyv.q1",
       "timestamp": "2025-11-02T02:01:14.114382",
@@ -26,7 +26,7 @@
     },
     {
       "client_id": "77Z9488B-WZ43-4Z8X-X58B-9AAZ4X8XW968",
-      "username": "bknoevanko",
+      "username": "",
       "discord_id": "1385277845072384102",
       "discord_name": "forsizero2",
       "timestamp": "2025-11-02T07:05:22.633400",
@@ -34,7 +34,7 @@
     },
     {
       "client_id": "15105Y28-W1B8-48WY-X5Y4-AB39Z4572W44",
-      "username": "mjznanxhtt",
+      "username": "",
       "discord_id": "302811620533338113",
       "discord_name": "llashkoo123",
       "timestamp": "2025-11-02T09:42:19.014837",
@@ -58,7 +58,7 @@
     },
     {
       "client_id": "81422849-ZZ8B-4Y32-XA09-WAW686784582",
-      "username": "9gknwu9",
+      "username": "",
       "discord_id": "774409358011793439",
       "discord_name": "koray49",
       "timestamp": "2025-11-02T17:08:28.807016",
@@ -66,7 +66,7 @@
     },
     {
       "client_id": "X14Y2Z37-Y77A-4993-9394-B002710Y882X",
-      "username": "YkvuHwlpkl_payd",
+      "username": "",
       "discord_id": "1041091681333825556",
       "discord_name": "ibozodev",
       "timestamp": "2025-11-03T12:11:39.081380",
@@ -82,7 +82,7 @@
     },
     {
       "client_id": "41755003-Z32B-4892-XBX3-534Y21YWA25B",
-      "username": "Bqjzejcokqho",
+      "username": "",
       "discord_id": "836554645194539030",
       "discord_name": "forcedtogetcreative",
       "timestamp": "2025-11-03T19:33:34.232217",
@@ -114,7 +114,7 @@
     },
     {
       "client_id": "BA1XB4AZ-4155-44YX-W126-027B0YZXWB62",
-      "username": "Ldehell_474z",
+      "username": "",
       "discord_id": "1185658144274251788",
       "discord_name": "philipp_98676",
       "timestamp": "2025-11-05T09:29:29.420440",
@@ -122,7 +122,7 @@
     },
     {
       "client_id": "584a037x-8axz-430w-84ax-01xa031147yx",
-      "username": "ktkcwiangejc",
+      "username": "",
       "discord_id": "901475560612577341",
       "discord_name": "silentfluffy",
       "timestamp": "2025-11-06T07:35:31.983524",
@@ -130,7 +130,7 @@
     },
     {
       "client_id": "z3b5576y-3byb-4yz8-xa29-2w91201ax28a",
-      "username": "ewijkkxbnnn1",
+      "username": "",
       "discord_id": "1136520698152632420",
       "discord_name": "eh_jay99",
       "timestamp": "2025-11-06T07:42:44.462979",
@@ -138,7 +138,7 @@
     },
     {
       "client_id": "ZWW387A6-8B14-40ZZ-XY6A-77260XY503Z8",
-      "username": "Gwgwaooan6969",
+      "username": "",
       "discord_id": "998968578478968865",
       "discord_name": "alexonr2",
       "timestamp": "2025-11-06T13:22:10.222008",
@@ -170,7 +170,7 @@
     },
     {
       "client_id": "A38YB6YY-970Z-4988-W8B3-Y10BY771X4Y3",
-      "username": "pdwjc24rj",
+      "username": "",
       "discord_id": "903301886315233291",
       "discord_name": "goonervro69",
       "timestamp": "2025-11-07T13:57:36.408073",
@@ -186,7 +186,7 @@
     },
     {
       "client_id": "W9X7820A-BY67-4614-X52A-8X7715B6A03Z",
-      "username": "FwuFwu_Oajwgqn",
+      "username": "",
       "discord_id": "965715186923229295",
       "discord_name": ".9quh.",
       "timestamp": "2025-11-07T21:57:52.353409",
@@ -218,7 +218,7 @@
     },
     {
       "client_id": "3X583757-2Z9Y-409Z-84Z7-854250W4W214",
-      "username": "In.Cwiejc",
+      "username": "",
       "discord_id": "1292795247499149322",
       "discord_name": "mrgaming.de",
       "timestamp": "2025-11-08T21:43:02.701888",
@@ -234,7 +234,7 @@
     },
     {
       "client_id": "a4607228-b187-44a6-w5bb-29wa4w1xz960",
-      "username": "Hakj_OG21",
+      "username": "",
       "discord_id": "1150375455862575175",
       "discord_name": "jamiro._.",
       "timestamp": "2025-11-08T22:37:40.420691",
@@ -242,7 +242,7 @@
     },
     {
       "client_id": "Z2A92923-3475-48W8-9688-28X157BZ86A2",
-      "username": "Hqgwo2481473",
+      "username": "",
       "discord_id": "1421798827865673734",
       "discord_name": "nicht_bekannt123",
       "timestamp": "2025-11-14T16:06:57.265940",
@@ -306,7 +306,7 @@
     },
     {
       "client_id": "0Z0BXZA3-1806-45BY-X04A-370427428696",
-      "username": "xhygspbtz",
+      "username": "",
       "discord_id": "196134126011678720",
       "discord_name": "onlyjstn",
       "timestamp": "2025-11-16T01:21:46.648185",
@@ -338,7 +338,7 @@
     },
     {
       "client_id": "yxb3y6za-ba09-49w2-975z-5b3y9w0y5aw3",
-      "username": "ndejkv67",
+      "username": "",
       "discord_id": "707719129846644777",
       "discord_name": "yuii2far",
       "timestamp": "2025-11-17T01:10:39.275684",
@@ -346,7 +346,7 @@
     },
     {
       "client_id": "AYA499B2-X768-463X-XBX3-XBB406X10229",
-      "username": "Hqgk777111",
+      "username": "",
       "discord_id": "1377790460986134578",
       "discord_name": "79.oio",
       "timestamp": "2025-11-17T12:19:54.388103",
@@ -362,7 +362,7 @@
     },
     {
       "client_id": "w62y2673-w45z-4895-9790-07941z414bb9",
-      "username": "iapadwjwxa098m",
+      "username": "",
       "discord_id": "920003714482323547",
       "discord_name": "cortiextwotime",
       "timestamp": "2025-11-17T15:01:21.901530",
@@ -370,7 +370,7 @@
     },
     {
       "client_id": "703Z62X4-W537-4985-89Y1-6ZA6W8YA7YA3",
-      "username": "Paop_wyy12345691",
+      "username": "",
       "discord_id": "807955476989870082",
       "discord_name": "galactic.xplorer",
       "timestamp": "2025-11-17T15:58:24.014668",
@@ -386,7 +386,7 @@
     },
     {
       "client_id": "08YA6Y63-WX7X-4069-960W-BYZ1638Z7XX4",
-      "username": "fkdj9925",
+      "username": "",
       "discord_id": "1223076938097229955",
       "discord_name": ".e7la.",
       "timestamp": "2025-11-18T18:05:40.646920",
@@ -397,7 +397,7 @@
       "username": "",
       "discord_id": "521051805786832908",
       "discord_name": "neue1",
-      "timestamp": "2025-11-18T21:01:15.851042",
+      "timestamp": "2025-11-18T20:53:58.669974",
       "status": "active"
     }
   ]
