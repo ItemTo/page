@@ -153,14 +153,6 @@
       "status": "active"
     },
     {
-      "client_id": "77W3WAW6-7648-4524-W3WZ-4B74BA95242Y",
-      "username": "",
-      "discord_id": "1308292772763275286",
-      "discord_name": "wasawsawsa_30920",
-      "timestamp": "2025-11-22T23:17:26.741849",
-      "status": "active"
-    },
-    {
       "client_id": "ww0804w1-2y1y-46yw-wwb5-w836944y8w90",
       "username": "",
       "discord_id": "903286003496808488",
@@ -206,6 +198,14 @@
       "discord_id": "1060918126033764422",
       "discord_name": "max_verstappen1233",
       "timestamp": "2025-11-23T17:21:11.105724",
+      "status": "active"
+    },
+    {
+      "client_id": "77W3WAW6-7648-4524-W3WZ-4B74BA95242Y",
+      "username": "",
+      "discord_id": "1308292772763275286",
+      "discord_name": "wasawsawsa_30920",
+      "timestamp": "2025-11-23T17:50:57.522182",
       "status": "active"
     }
   ]
