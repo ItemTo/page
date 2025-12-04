@@ -73,14 +73,6 @@
       "status": "active"
     },
     {
-      "client_id": "ZVV499U2-O768-463M-KMG3-EGE406Y10229",
-      "username": "GnbpfSJOFjhKlg2",
-      "discord_id": "1377790460986134578",
-      "discord_name": "79.oio",
-      "timestamp": "2025-12-02T08:30:04.114959",
-      "status": "active"
-    },
-    {
       "client_id": "846Z09VS-T0SN-46K0-99K4-H335I4629243",
       "username": "",
       "discord_id": "1442069619610357842",
@@ -262,6 +254,14 @@
       "discord_id": "1394378574831681639",
       "discord_name": "spray50",
       "timestamp": "2025-12-04T09:00:20.203521",
+      "status": "active"
+    },
+    {
+      "client_id": "ZVV499U2-O768-463M-KMG3-EGE406Y10229",
+      "username": "CTYPtr1305",
+      "discord_id": "1377790460986134578",
+      "discord_name": "79.oio",
+      "timestamp": "2025-12-04T10:01:29.299463",
       "status": "active"
     }
   ]
