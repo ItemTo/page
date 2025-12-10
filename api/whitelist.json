@@ -73,14 +73,6 @@
       "status": "active"
     },
     {
-      "client_id": "618630W4-Y4S1-4291-P9N8-5Q4N621JHGB6",
-      "username": "",
-      "discord_id": "1143557151126724668",
-      "discord_name": "_keinwlan",
-      "timestamp": "2025-12-09T19:45:06.094757",
-      "status": "active"
-    },
-    {
       "client_id": "541W0250-W1RR-4N14-8718-136M448L1I90",
       "username": "",
       "discord_id": "1147207597414428774",
@@ -174,6 +166,14 @@
       "discord_id": "925367844894568449",
       "discord_name": "yety5356",
       "timestamp": "2025-12-10T17:28:33.261117",
+      "status": "active"
+    },
+    {
+      "client_id": "06Z25W83-50S0-4U5O-L298-69LL580F3DG5",
+      "username": "Onwu",
+      "discord_id": "1143557151126724668",
+      "discord_name": "_keinwlan",
+      "timestamp": "2025-12-10T20:02:12.531443",
       "status": "active"
     }
   ]
