@@ -217,14 +217,6 @@
       "status": "active"
     },
     {
-      "client_id": "WV132S28-RQ6O-42LL-GI16-D2706C2AYVR5",
-      "username": "gntpf_lvlql11",
-      "discord_id": "1261686091296018544",
-      "discord_name": "akh1170",
-      "timestamp": "2025-12-12T19:31:11.691289",
-      "status": "active"
-    },
-    {
       "client_id": "w2012031-uv5t-4550-9p63-94o5385j4045",
       "username": "",
       "discord_id": "932350453235208233",
@@ -294,6 +286,14 @@
       "discord_id": "998968578478968865",
       "discord_name": "alexonr2",
       "timestamp": "2025-12-13T09:10:52.202673",
+      "status": "active"
+    },
+    {
+      "client_id": "WV132S28-RQ6O-42LL-GI16-D2706C2AYVR5",
+      "username": "",
+      "discord_id": "1261686091296018544",
+      "discord_name": "akh1170",
+      "timestamp": "2025-12-13T09:57:57.857758",
       "status": "active"
     }
   ]
