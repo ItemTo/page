@@ -241,14 +241,6 @@
       "status": "active"
     },
     {
-      "client_id": "5WXSQ9ON-0503-4MH4-F9H5-C6A3Y3129Z96",
-      "username": "",
-      "discord_id": "1431020261095899157",
-      "discord_name": "afkseit2019",
-      "timestamp": "2025-12-13T00:21:57.494534",
-      "status": "active"
-    },
-    {
       "client_id": "77Y9488Y-RS43-4Q8M-K58M-9JHE4A8YV968",
       "username": "",
       "discord_id": "1385277845072384102",
@@ -294,6 +286,14 @@
       "discord_id": "1254188414283022524",
       "discord_name": "superhydro76_2.0",
       "timestamp": "2025-12-13T12:17:02.739340",
+      "status": "active"
+    },
+    {
+      "client_id": "5WXSQ9ON-0503-4MH4-F9H5-C6A3Y3129Z96",
+      "username": "",
+      "discord_id": "1431020261095899157",
+      "discord_name": "afkseit2019",
+      "timestamp": "2025-12-13T12:22:42.707522",
       "status": "active"
     }
   ]
